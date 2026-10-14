@@ -1,5 +1,3 @@
-<div align="center">
-
 *⬇️ 网盘备份下载（微信扫码即可）/ Backup download (Quark Drive)*
 
 建议微信扫码下载：
@@ -8,9 +6,9 @@
 
 网盘链接 https://pan.quark.cn/s/8be3d7e03038
 
-也可[前往原项目下载](https://github.com/chthollyphile/folia-major/releases)。 / You can also [download from the original project](https://github.com/chthollyphile/folia-major/releases).
+本 fork 的 GitHub Releases（镜像备份）：[https://github.com/M49P6BK/folia-major/releases](https://github.com/M49P6BK/folia-major/releases)
 
-</div>
+也可[前往原项目下载](https://github.com/chthollyphile/folia-major/releases)。 / You can also [download from the original project](https://github.com/chthollyphile/folia-major/releases).
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b5d0e863-48be-497b-b0e9-4bd8d8ce9bf0" alt="Folia" width="100%" />
