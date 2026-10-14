@@ -1,3 +1,15 @@
+<div align="center">
+
+**⬇️ 网盘备份下载（夸克网盘）**
+
+扫码或点链接下载：**[https://pan.quark.cn/s/8be3d7e03038](https://pan.quark.cn/s/8be3d7e03038)**（口令 `/~c8983bS5PB~:/`）
+
+<img src="download-qr.png" width="160" alt="夸克网盘下载二维码">
+
+也可[前往原项目下载](https://github.com/chthollyphile/folia-major/releases)。
+
+</div>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b5d0e863-48be-497b-b0e9-4bd8d8ce9bf0" alt="Folia" width="100%" />
 </p>
