@@ -1,10 +1,12 @@
 <div align="center">
 
-**⬇️ 网盘备份下载（夸克网盘）/ Backup download (Quark Drive)**
+*⬇️ 网盘备份下载（微信扫码即可）/ Backup download (Quark Drive)*
 
-扫码或点链接下载：**https://pan.quark.cn/s/8be3d7e03038**（口令 / share code：`/~c8983bS5PB~:/`）
+建议微信扫码下载：
 
 <img src="download-qr.png" width="160" alt="夸克网盘下载二维码 / Quark Drive QR code">
+
+网盘链接 https://pan.quark.cn/s/8be3d7e03038
 
 也可[前往原项目下载](https://github.com/chthollyphile/folia-major/releases)。 / You can also [download from the original project](https://github.com/chthollyphile/folia-major/releases).
 
