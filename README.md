@@ -1,6 +1,7 @@
 *⬇️ > **🌐 国内 / 网络不佳时的下载备选（网盘镜像）**
 > 如果你在中国大陆，或访问 GitHub 出现**下载慢、速度为 0、`Failed to fetch`、`network error`、页面打不开**等情况，请**直接使用下方夸克网盘链接下载**，无需访问 GitHub：
 > **夸克网盘**：https://pan.quark.cn/s/8be3d7e03038 （微信扫码或点链接即可，含完整 release 文件）
+> 📱 **手机版安卓 APK 也已提供**：[Folia-Android-1.4.0.apk](https://github.com/M49P6BK/folia-major/releases/tag/android-1.4.0)（适用于 Android 手机/平板）。
 >
 > 若 GitHub 访问正常，也可在 [本 fork 的 Releases](https://github.com/M49P6BK/folia-major/releases) 或 [原项目 Releases](https://github.com/chthollyphile/folia-major/releases) 下载。
 <img src="download-qr.png" width="160" alt="夸克网盘下载二维码 / Quark Drive QR code">
@@ -35,6 +36,13 @@ Lyrics Reimagined // 辞曲新境
 [技术说明](docs/technical.md)
 
 </div>
+
+## 📱 安卓手机版 / Android APK
+
+Folia 提供 **Android 手机/平板** 版本，无需桌面环境即可在手机上使用：
+
+- **下载**：[Folia-Android-1.4.0.apk](https://github.com/M49P6BK/folia-major/releases/tag/android-1.4.0)（位于本 fork 的 Releases，标签 ndroid-1.4.0）
+- 若从 GitHub 下载慢，也可使用顶部夸克网盘镜像。
 
 ## 项目简介
 
