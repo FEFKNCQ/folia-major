@@ -41,7 +41,7 @@ Lyrics Reimagined // 辞曲新境
 
 Folia 提供 **Android 手机/平板** 版本，无需桌面环境即可在手机上使用：
 
-- **下载**：[Folia-Aandroid-1.4.0.apk](https://github.com/M49P6BK/folia-major/releases/tag/aandroid-1.4.0)（位于本 fork 的 Releases，标签 android-1.4.0）
+- **下载**：[Folia-Android-1.4.0.apk](https://github.com/M49P6BK/folia-major/releases/tag/android-1.4.0)（位于本 fork 的 Releases，标签 android-1.4.0）
 - 若从 GitHub 下载慢，也可使用顶部夸克网盘镜像。
 
 ## 项目简介
