@@ -1,10 +1,14 @@
+> **分支声明**
+> 本仓库是 [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) 的 fork（分支），作为原作者删除后的镜像备份。
+> 版权归原作者所有；源代码沿用原始许可证，原始版权与许可声明均完整保留、未作修改。
+
 *⬇️ > **🌐 国内 / 网络不佳时的下载备选（网盘镜像）**
 > 如果你在中国大陆，或访问 GitHub 出现**下载慢、速度为 0、`Failed to fetch`、`network error`、页面打不开**等情况，请**直接使用下方夸克网盘链接下载**，无需访问 GitHub：
 > **夸克网盘**：https://pan.quark.cn/s/8be3d7e03038 （微信扫码或点链接即可，含完整 release 文件）
 > 📱 **手机版安卓 APK 也已提供**：[Folia-Aandroid-1.4.0.apk](https://github.com/M49P6BK/folia-major/releases/tag/aandroid-1.4.0)（适用于 Android 手机/平板）。
 >
 > 若 GitHub 访问正常，也可在 [本 fork 的 Releases](https://github.com/M49P6BK/folia-major/releases) 或 [原项目 Releases](https://github.com/chthollyphile/folia-major/releases) 下载。
-<img src="download-qr.png" width="160" alt="夸克网盘下载二维码 / Quark Drive QR code">
+<img src="download-qr.png" width="160" alt="夸克网盘下载二维码">
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b5d0e863-48be-497b-b0e9-4bd8d8ce9bf0" alt="Folia" width="100%" />
