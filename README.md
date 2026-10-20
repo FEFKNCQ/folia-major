@@ -1,9 +1,211 @@
-> **分支声明（Fork notice）**
-> 本仓库是 [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) 的 fork（分支），保留原始版权与许可声明，未作修改。
-> 如果你在中国大陆，或访问 GitHub 出现下载慢、无法访问的情况，请直接使用下方夸克网盘链接下载，无需访问 GitHub：
-> **夸克网盘**：https://pan.quark.cn/s/fc39e71ebcc4 （微信扫码或点链接即可，含完整 release 文件）
+> **下载说明**
+> 推荐通过下方夸克网盘直链下载（含完整 release 文件，微信扫码或点链接即可），无需访问 GitHub：
+> **夸克网盘**：https://pan.quark.cn/s/fc39e71ebcc4
 >
-> 若 GitHub 访问正常，也可在 [本 fork 的 Releases](https://github.com/M49P6BK/folia-major/releases) 或 [原项目 Releases](https://github.com/chthollyphile/folia-major/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/folia-major/releases) 下载。
+
+
+> **分支声明（Fork notice）**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -163,8 +365,6 @@ Vercel 与 Cloudflare 上的 QQ 音乐不再需要额外部署一个常驻 API �
 - **Arch Linux**: 可通过 AUR 获取 [folia-major-bin](https://aur.archlinux.org/packages/folia-major-bin)。
 - **Flatpak**: 社区提供的第三方 flatpak，详情见 [Flatpark](https://flatpark.org/apps/top.izuna.foliamajor/)。
 
-> [!IMPORTANT]
-> 如果国内网络从 GitHub Releases 下载较慢，可以使用 [夸克网盘](https://pan.quark.cn/s/6e4c6fa3bc6f) 或 [百度云](https://pan.baidu.com/s/1f0x3g-8PMcNCO-TJ5z1rPw?pwd=flia) 下载。网盘链接仅提供 Windows 与 Apple silicon 的正式版安装包.
 
 Linux 包、Wayland / Hyprland 遥控窗和桌面端细节见 [技术与开发说明](docs/technical.md)。
 
